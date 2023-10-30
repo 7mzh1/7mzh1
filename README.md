@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @hamzah
-- 🌱 I’m currently learning java and flutter
+- 🌱 I’m currently learning  
 - 📫 How to reach me swe.hamzah@gmail.com
